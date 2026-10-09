@@ -1,0 +1,9 @@
+pdfplumber
+chromadb
+groq
+python-dotenv
+scikit-learn
+numpy
+fastapi
+uvicorn
+python-multipart
